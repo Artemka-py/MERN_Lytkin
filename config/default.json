@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "lytkin mern",
+  "mongoUri": "mongodb+srv://artmka-py:Artem565@cluster0-fqjgp.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
